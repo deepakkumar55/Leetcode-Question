@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0921-spiral-matrix-iii) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Binary Search
 |  |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
