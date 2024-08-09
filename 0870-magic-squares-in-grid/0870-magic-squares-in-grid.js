@@ -1,74 +1,42 @@
-/**
- * @param {number[][]} grid
- * @return {number}
- */
-var numMagicSquaresInside = function(grid) {
-    let count = 0;
-    const rows = grid.length;
-    const cols = grid[0].length;
+function numMagicSquaresInside(grid) {
+    if (grid.length < 3 || grid[0].length < 3) {
+        return 0;
+    }
 
-    for (let i = 0; i <= rows - 3; i++) {
-        for (let j = 0; j <= cols - 3; j++) {
-            if (isValidMagicSquare(grid, i, j)) {
+    let count = 0;
+
+    for (let i = 0; i < grid.length - 2; i++) {
+        for (let j = 0; j < grid[0].length - 2; j++) {
+            if (isMagic(grid, i, j)) {
                 count++;
             }
         }
     }
 
     return count;
-};
+}
 
-/**
- * @param {number[][]} grid
- * @param {number} startRow
- * @param {number} startCol
- * @return {boolean}
- */
-function isValidMagicSquare(grid, startRow, startCol) {
-    // Create a boolean array to track the presence of each number (1-9)
-    const numPresence = new Array(10).fill(false);
+function isMagic(grid, i, j) {
+    const nums = new Set();
 
-    // Check each element in the 3x3 subgrid
-    for (let i = startRow; i < startRow + 3; i++) {
-        for (let j = startCol; j < startCol + 3; j++) {
-            const num = grid[i][j];
-            if (num < 1 || num > 9 || numPresence[num]) {
-                return false;
-            }
-            numPresence[num] = true;
+    for (let x = 0; x < 3; x++) {
+        for (let y = 0; y < 3; y++) {
+            const num = grid[i + x][j + y];
+            if (num < 1 || num > 9) return false;
+            nums.add(num);
         }
     }
 
-    // Check if the sums of rows, columns, and diagonals are equal
-    const targetSum = grid[startRow][startCol] + grid[startRow][startCol + 1] + grid[startRow][startCol + 2];
-    for (let i = 0; i < 3; i++) {
-        if (getRowSum(grid, startRow + i, startCol) !== targetSum ||
-            getColSum(grid, startRow, startCol + i) !== targetSum) {
-            return false;
-        }
-    }
+    if (nums.size !== 9) return false;
 
-    const diagonalSum1 = grid[startRow][startCol] + grid[startRow + 1][startCol + 1] + grid[startRow + 2][startCol + 2];
-    const diagonalSum2 = grid[startRow + 2][startCol] + grid[startRow + 1][startCol + 1] + grid[startRow][startCol + 2];
-    return diagonalSum1 === targetSum && diagonalSum2 === targetSum;
-}
+    const a = grid[i][j] + grid[i][j+1] + grid[i][j+2];
+    const b = grid[i+1][j] + grid[i+1][j+1] + grid[i+1][j+2];
+    const c = grid[i+2][j] + grid[i+2][j+1] + grid[i+2][j+2];
+    const d = grid[i][j] + grid[i+1][j] + grid[i+2][j];
+    const e = grid[i][j+1] + grid[i+1][j+1] + grid[i+2][j+1];
+    const f = grid[i][j+2] + grid[i+1][j+2] + grid[i+2][j+2];
+    const g = grid[i][j] + grid[i+1][j+1] + grid[i+2][j+2];
+    const h = grid[i][j+2] + grid[i+1][j+1] + grid[i+2][j];
 
-/**
- * @param {number[][]} grid
- * @param {number} row
- * @param {number} startCol
- * @return {number}
- */
-function getRowSum(grid, row, startCol) {
-    return grid[row][startCol] + grid[row][startCol + 1] + grid[row][startCol + 2];
-}
-
-/**
- * @param {number[][]} grid
- * @param {number} startRow
- * @param {number} col
- * @return {number}
- */
-function getColSum(grid, startRow, col) {
-    return grid[startRow][col] + grid[startRow + 1][col] + grid[startRow + 2][col];
+    return a === b && b === c && c === d && d === e && e === f && f === g && g === h;
 }
