@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
