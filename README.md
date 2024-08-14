@@ -21,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0040-combination-sum-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0999-regions-cut-by-slashes) |
@@ -38,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Dynamic Programming
 |  |
@@ -127,4 +130,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0789-kth-largest-element-in-a-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 <!---LeetCode Topics End-->
