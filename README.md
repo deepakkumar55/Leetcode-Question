@@ -1,6 +1,3 @@
-# Leetcode-Question
-
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
