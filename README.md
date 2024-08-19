@@ -46,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0650-2-keys-keyboard) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Stack
 |  |
@@ -68,6 +69,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
