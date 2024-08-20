@@ -36,6 +36,7 @@
 | [0890-lemonade-change](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Binary Search
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Stack
 |  |
@@ -71,6 +73,7 @@
 | [0273-integer-to-english-words](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -137,4 +140,12 @@
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
