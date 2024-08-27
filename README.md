@@ -39,6 +39,7 @@
 | [0921-spiral-matrix-iii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Binary Search
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1325-path-with-maximum-probability) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,4 +163,12 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0476-number-complement) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
