@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0999-regions-cut-by-slashes) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2035-count-sub-islands) |
@@ -115,6 +117,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
@@ -171,6 +174,7 @@
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
