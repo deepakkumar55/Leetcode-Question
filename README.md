@@ -48,6 +48,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2155-find-missing-observations) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@
 | [0650-2-keys-keyboard](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2155-find-missing-observations) |
 ## Depth-First Search
 |  |
 | ------- |
