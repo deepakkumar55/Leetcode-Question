@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0273-integer-to-english-words](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0664-strange-printer) |
@@ -61,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
@@ -145,6 +147,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0040-combination-sum-ii) |
 ## Tree
 |  |
