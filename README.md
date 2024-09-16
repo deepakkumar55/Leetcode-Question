@@ -16,6 +16,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0273-integer-to-english-words](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0664-strange-printer) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -31,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0040-combination-sum-ii) |
+| [0539-minimum-time-difference](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
@@ -98,6 +101,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
