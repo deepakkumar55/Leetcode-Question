@@ -10,6 +10,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -27,6 +28,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -72,6 +74,7 @@
 | [2155-find-missing-observations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -88,6 +91,7 @@
 | [0650-2-keys-keyboard](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Stack
 |  |
@@ -280,4 +284,5 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
