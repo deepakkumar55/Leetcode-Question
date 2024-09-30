@@ -74,6 +74,7 @@
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0145-binary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Queue
 |  |
@@ -209,6 +211,7 @@
 | [0731-my-calendar-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
