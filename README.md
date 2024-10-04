@@ -14,6 +14,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -51,6 +52,7 @@
 | [0539-minimum-time-difference](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1256-rank-transform-of-an-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -92,6 +94,7 @@
 | [2411-spiral-matrix-iv](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -244,6 +247,7 @@
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
 | ------- |
