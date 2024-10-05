@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -28,6 +29,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -246,6 +248,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
@@ -337,4 +340,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0432-all-oone-data-structure) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
