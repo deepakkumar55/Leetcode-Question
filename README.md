@@ -40,6 +40,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -107,6 +108,7 @@
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1325-path-with-maximum-probability) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -222,6 +224,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0999-regions-cut-by-slashes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2035-count-sub-islands) |
@@ -382,6 +385,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
