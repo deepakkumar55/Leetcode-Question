@@ -131,6 +131,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -152,6 +153,7 @@
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Stack
 |  |
@@ -208,6 +210,7 @@
 | [2035-count-sub-islands](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
