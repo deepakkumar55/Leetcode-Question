@@ -77,6 +77,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1256-rank-transform-of-an-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -128,6 +129,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
@@ -152,6 +154,7 @@
 | [0664-strange-printer](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2554-minimum-total-distance-traveled](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
