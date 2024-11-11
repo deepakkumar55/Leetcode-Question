@@ -71,6 +71,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -141,6 +142,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
@@ -155,6 +157,7 @@
 | [0729-my-calendar-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2716-prime-subtraction-operation) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Dynamic Programming
 |  |
@@ -204,6 +207,7 @@
 | [0870-magic-squares-in-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2155-find-missing-observations) |
+| [2716-prime-subtraction-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -390,6 +394,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
