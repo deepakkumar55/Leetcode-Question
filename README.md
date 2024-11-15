@@ -124,6 +124,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -161,6 +162,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0731-my-calendar-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -187,6 +189,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Queue
@@ -197,6 +200,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Monotonic Queue
 |  |
@@ -343,6 +347,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
