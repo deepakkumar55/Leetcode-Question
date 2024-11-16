@@ -156,6 +156,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -460,6 +461,7 @@
 | [0567-permutation-in-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Enumeration
 |  |
 | ------- |
