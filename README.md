@@ -105,6 +105,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
@@ -184,6 +185,7 @@
 | [2716-prime-subtraction-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3291-find-if-array-can-be-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -209,6 +211,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3427-special-array-ii) |
@@ -543,6 +546,7 @@
 | [1755-defuse-the-bomb](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
