@@ -153,6 +153,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -248,6 +249,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
@@ -261,6 +263,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 ## Monotonic Queue
