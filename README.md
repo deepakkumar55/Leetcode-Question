@@ -56,6 +56,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -164,6 +165,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -248,6 +250,7 @@
 | [1063-best-sightseeing-pair](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2755-extra-characters-in-a-string) |
