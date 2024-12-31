@@ -150,6 +150,7 @@
 | [0906-walking-robot-simulation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0999-regions-cut-by-slashes) |
+| [1025-minimum-cost-for-tickets](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
@@ -247,6 +248,7 @@
 | [0650-2-keys-keyboard](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1402-count-square-submatrices-with-all-ones) |
