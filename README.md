@@ -54,6 +54,7 @@
 | [1304-longest-happy-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -167,6 +168,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -593,6 +595,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
