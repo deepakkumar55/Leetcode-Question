@@ -220,6 +220,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2554-minimum-total-distance-traveled) |
@@ -562,6 +563,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -604,6 +606,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Memoization
 |  |
 | ------- |
