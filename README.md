@@ -196,6 +196,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1917-maximum-average-pass-ratio) |
@@ -368,6 +369,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2089-maximum-matrix-sum) |
@@ -425,6 +427,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2493-reverse-odd-levels-of-binary-tree) |
