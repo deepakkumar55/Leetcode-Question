@@ -269,6 +269,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2551-apply-operations-to-an-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -459,6 +460,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -651,6 +653,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
