@@ -319,6 +319,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3643-zero-array-transformation-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -702,6 +704,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3643-zero-array-transformation-ii) |
 ## Game Theory
 |  |
 | ------- |
