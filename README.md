@@ -487,6 +487,7 @@
 | [2716-prime-subtraction-operation](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -942,6 +943,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/deepakkumar55/Leetcode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2998-count-symmetric-integers) |
 ## Eulerian Circuit
 |  |
 | ------- |
