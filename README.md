@@ -151,6 +151,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
@@ -889,6 +890,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1098,6 +1100,7 @@
 | [2998-count-symmetric-integers](https://github.com/deepakkumar55/Leetcode-Question/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3548-find-the-count-of-good-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/deepakkumar55/Leetcode-Question/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
